@@ -1,0 +1,1 @@
+web: gunicorn safebox.wsgi:application --log-file -
